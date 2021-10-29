@@ -1,7 +1,4 @@
-## Media Production Training
-
-
-### Streaming Operations Module
+## Streaming Operations Module
 
 Welcome to the MP Onling Training for Streaming Operations! Let's get Started.
 
